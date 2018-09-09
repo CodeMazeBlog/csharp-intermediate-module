@@ -11,10 +11,16 @@ namespace Example1
         private string _name;
         private string _lastName;
 
-        public Student()
+        public string Name
         {
-            _name = string.Empty;
-            _lastName = string.Empty;
+            get { return _name; }
+            set { _name = value; }
+        }
+
+        public string LastName
+        {
+            get { return _lastName; }
+            set { _lastName = value; }
         }
 
         public Student(string name, string lastName)
