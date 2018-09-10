@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1", "Example1\Example1.csproj", "{43FF3491-5E08-4B65-8370-1D2339CFDF8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMethodExample", "StaticMethodExample\StaticMethodExample.csproj", "{9F1560F7-B672-42D6-A03B-07520E7112A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{43FF3491-5E08-4B65-8370-1D2339CFDF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{43FF3491-5E08-4B65-8370-1D2339CFDF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{43FF3491-5E08-4B65-8370-1D2339CFDF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{43FF3491-5E08-4B65-8370-1D2339CFDF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1560F7-B672-42D6-A03B-07520E7112A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1560F7-B672-42D6-A03B-07520E7112A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1560F7-B672-42D6-A03B-07520E7112A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1560F7-B672-42D6-A03B-07520E7112A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D668653E-34D0-4B55-8068-A28C6506C824}
+		SolutionGuid = {F618B433-9132-4B99-B91F-507AEC9736EB}
 	EndGlobalSection
 EndGlobal

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{43FF3491-5E08-4B65-8370-1D2339CFDF8F}</ProjectGuid>
+    <ProjectGuid>{9F1560F7-B672-42D6-A03B-07520E7112A9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Example1</RootNamespace>
-    <AssemblyName>Example1</AssemblyName>
+    <RootNamespace>StaticMethodExample</RootNamespace>
+    <AssemblyName>StaticMethodExample</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,7 +44,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
+    <Compile Include="StringExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
