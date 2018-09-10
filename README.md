@@ -1,4 +1,4 @@
 # csharp-intermediate-module
-## Static Members in C#
+## Anonymous and Nullable Types in C#
 
-##https://code-maze.com/csharp-static-classes-static-methods-extension-methods
+##https://code-maze.com/csharp-anonymous-nullable-types
