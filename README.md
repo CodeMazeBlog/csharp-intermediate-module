@@ -1,4 +1,4 @@
 # csharp-intermediate-module
-## Enumerations in C#
+## Inheritance in C#
 
-##https://code-maze.com/csharp-enumerations
+##https://code-maze.com/csharp-inheritance
