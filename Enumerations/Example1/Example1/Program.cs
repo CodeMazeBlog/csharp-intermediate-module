@@ -10,8 +10,9 @@ namespace Example1
     {
         static void Main(string[] args)
         {
-            Time time = new Time(3, 30, 25);
-            time.PrintTime();
+            DaysInWeek monday = DaysInWeek.Monday;
+
+            Console.WriteLine((int)monday); //it prints out the 0
 
             Console.ReadKey();
         }

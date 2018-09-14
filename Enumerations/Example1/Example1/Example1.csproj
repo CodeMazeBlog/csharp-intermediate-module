@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{704A198C-2326-448D-9CE2-B59645D6E145}</ProjectGuid>
+    <ProjectGuid>{A1DE0F0A-7BBE-43FC-B819-B7615B73F56F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Example1</RootNamespace>
     <AssemblyName>Example1</AssemblyName>
@@ -42,9 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DaysInWeek.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Time.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
