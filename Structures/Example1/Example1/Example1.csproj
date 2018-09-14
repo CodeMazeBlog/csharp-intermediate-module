@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E5C182C7-7640-4A60-AD69-88B446EBB643}</ProjectGuid>
+    <ProjectGuid>{704A198C-2326-448D-9CE2-B59645D6E145}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Example1</RootNamespace>
     <AssemblyName>Example1</AssemblyName>
@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Time.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

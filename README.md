@@ -1,4 +1,4 @@
 # csharp-intermediate-module
-## Anonymous and Nullable Types in C#
+## Structures in C#
 
-##https://code-maze.com/csharp-anonymous-nullable-types
+##https://code-maze.com/csharp-structures
