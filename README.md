@@ -1,4 +1,4 @@
 # csharp-intermediate-module
 ## Classes and Constructors
 
-## https://code-maze.com/csharp-intermediate-classes-constructors/
+## https://code-maze.com/csharp-classes-constructors/
