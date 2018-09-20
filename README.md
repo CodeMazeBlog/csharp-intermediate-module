@@ -1,4 +1,4 @@
 # csharp-intermediate-module
-## Classes and Constructors
+## C# Intermediate - Interfaces in C#
 
-## https://code-maze.com/csharp-classes-constructors/
+## https://code-maze.com/csharp-interfaces/

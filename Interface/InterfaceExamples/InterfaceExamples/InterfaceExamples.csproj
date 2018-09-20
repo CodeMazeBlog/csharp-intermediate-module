@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{67BD3673-5505-412A-8305-DC923A83D84C}</ProjectGuid>
+    <ProjectGuid>{5F82B7A2-84B4-4282-BA86-1DF487EB05DF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Example1</RootNamespace>
-    <AssemblyName>Example1</AssemblyName>
+    <RootNamespace>InterfaceExamples</RootNamespace>
+    <AssemblyName>InterfaceExamples</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,9 +42,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IFormatter.cs" />
+    <Compile Include="IWriter.cs" />
+    <Compile Include="JsonWriter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
+    <Compile Include="FileBase.cs" />
+    <Compile Include="FileWriter.cs" />
+    <Compile Include="XmlWriter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
