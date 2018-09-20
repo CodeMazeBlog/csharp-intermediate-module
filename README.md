@@ -1,4 +1,4 @@
 # csharp-intermediate-module
-## C# Intermediate - Interfaces in C#
+## C# Intermediate - Abstract Classes in C#
 
-## https://code-maze.com/csharp-interfaces/
+## https://code-maze.com/csharp-abstract-classes
