@@ -1,4 +1,4 @@
 # csharp-intermediate-module
-## Generics in C#
+## Queue, Stack and Hashtable Collections in C#
 
-##https://code-maze.com/csharp-generics
+## https://code-maze.com/csharp-queue-stack-hashtable/

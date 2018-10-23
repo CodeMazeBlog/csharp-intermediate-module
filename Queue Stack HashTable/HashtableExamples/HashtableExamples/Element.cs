@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GenericsExamples
+namespace HashtableExamples
 {
-    public class Student
+    public enum Element
     {
-        public string Name { get; set; }
-        public int Age { get; set; }
+        First,
+        Second,
+        Third
     }
 }
