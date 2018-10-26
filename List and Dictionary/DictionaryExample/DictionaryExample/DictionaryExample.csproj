@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{37E9B3E1-96F3-46E5-BC67-0BCA3A962F13}</ProjectGuid>
+    <ProjectGuid>{22B23E95-7436-4F67-9DA5-E3C174E5BD37}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HashtableExamples</RootNamespace>
-    <AssemblyName>HashtableExamples</AssemblyName>
+    <RootNamespace>DictionaryExample</RootNamespace>
+    <AssemblyName>DictionaryExample</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Element.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

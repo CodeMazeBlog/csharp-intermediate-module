@@ -1,4 +1,4 @@
 # csharp-intermediate-module
-## Queue, Stack and Hashtable Collections in C#
+## Generic List and Dictionary in C#
 
-## https://code-maze.com/csharp-queue-stack-hashtable/
+##  https://code-maze.com/cshart-generic-list-dictionary/
