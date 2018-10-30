@@ -1,4 +1,4 @@
 # csharp-intermediate-module
-## Generic List and Dictionary in C#
+## Delegates in C#
 
-##  https://code-maze.com/cshart-generic-list-dictionary/
+##  https://code-maze.com/csharp-delegates/

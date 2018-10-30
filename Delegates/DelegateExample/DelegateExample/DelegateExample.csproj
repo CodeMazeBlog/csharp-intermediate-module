@@ -4,13 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{22B23E95-7436-4F67-9DA5-E3C174E5BD37}</ProjectGuid>
+    <ProjectGuid>{F3263D8C-3279-4264-A57D-C33C3AEF38B4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DictionaryExample</RootNamespace>
-    <AssemblyName>DictionaryExample</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <RootNamespace>DelegateExample</RootNamespace>
+    <AssemblyName>DelegateExample</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
