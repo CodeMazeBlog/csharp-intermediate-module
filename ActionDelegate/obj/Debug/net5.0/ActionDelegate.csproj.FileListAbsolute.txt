@@ -1,0 +1,16 @@
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\obj\Debug\net5.0\ActionDelegate.csproj.AssemblyReference.cache
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\obj\Debug\net5.0\ActionDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\obj\Debug\net5.0\ActionDelegate.AssemblyInfoInputs.cache
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\obj\Debug\net5.0\ActionDelegate.AssemblyInfo.cs
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\obj\Debug\net5.0\ActionDelegate.csproj.CoreCompileInputs.cache
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\bin\Debug\net5.0\ActionDelegate.exe
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\bin\Debug\net5.0\ActionDelegate.deps.json
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\bin\Debug\net5.0\ActionDelegate.runtimeconfig.json
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\bin\Debug\net5.0\ActionDelegate.runtimeconfig.dev.json
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\bin\Debug\net5.0\ActionDelegate.dll
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\bin\Debug\net5.0\ActionDelegate.pdb
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\obj\Debug\net5.0\ActionDelegate.dll
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\obj\Debug\net5.0\refint\ActionDelegate.dll
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\obj\Debug\net5.0\ActionDelegate.pdb
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\obj\Debug\net5.0\ActionDelegate.genruntimeconfig.cache
+D:\code-maze-repo\csharp-intermediate-module\ActionDelegate\obj\Debug\net5.0\ref\ActionDelegate.dll

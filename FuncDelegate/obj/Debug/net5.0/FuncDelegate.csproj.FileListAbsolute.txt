@@ -1,0 +1,16 @@
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\bin\Debug\net5.0\FuncDelegate.exe
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\bin\Debug\net5.0\FuncDelegate.deps.json
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\bin\Debug\net5.0\FuncDelegate.runtimeconfig.json
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\bin\Debug\net5.0\FuncDelegate.runtimeconfig.dev.json
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\bin\Debug\net5.0\FuncDelegate.dll
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\bin\Debug\net5.0\FuncDelegate.pdb
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\obj\Debug\net5.0\FuncDelegate.csproj.AssemblyReference.cache
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\obj\Debug\net5.0\FuncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\obj\Debug\net5.0\FuncDelegate.AssemblyInfoInputs.cache
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\obj\Debug\net5.0\FuncDelegate.AssemblyInfo.cs
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\obj\Debug\net5.0\FuncDelegate.csproj.CoreCompileInputs.cache
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\obj\Debug\net5.0\FuncDelegate.dll
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\obj\Debug\net5.0\refint\FuncDelegate.dll
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\obj\Debug\net5.0\FuncDelegate.pdb
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\obj\Debug\net5.0\FuncDelegate.genruntimeconfig.cache
+D:\code-maze-repo\csharp-intermediate-module\FuncDelegate\obj\Debug\net5.0\ref\FuncDelegate.dll
