@@ -1,0 +1,16 @@
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\bin\Debug\net5.0\DelegateExample.exe
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\bin\Debug\net5.0\DelegateExample.deps.json
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\bin\Debug\net5.0\DelegateExample.runtimeconfig.json
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\bin\Debug\net5.0\DelegateExample.runtimeconfig.dev.json
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\bin\Debug\net5.0\DelegateExample.dll
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\bin\Debug\net5.0\DelegateExample.pdb
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\obj\Debug\net5.0\DelegateExample.csproj.AssemblyReference.cache
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\obj\Debug\net5.0\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\obj\Debug\net5.0\DelegateExample.AssemblyInfoInputs.cache
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\obj\Debug\net5.0\DelegateExample.AssemblyInfo.cs
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\obj\Debug\net5.0\DelegateExample.csproj.CoreCompileInputs.cache
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\obj\Debug\net5.0\DelegateExample.dll
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\obj\Debug\net5.0\refint\DelegateExample.dll
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\obj\Debug\net5.0\DelegateExample.pdb
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\obj\Debug\net5.0\DelegateExample.genruntimeconfig.cache
+D:\code-maze-repo\csharp-intermediate-module\DelegateExample\obj\Debug\net5.0\ref\DelegateExample.dll
