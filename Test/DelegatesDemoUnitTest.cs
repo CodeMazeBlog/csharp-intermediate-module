@@ -8,23 +8,22 @@ namespace DelegatesDemo.Test
     public class DelegateDemoTest
     {
         [Test]
-        public void Test_ReverseStringDelegate()
+        public void Test_SquareDelegate()
         {
             // Arrange
-            IFunctionDelegate<string, string> reverseStringDelegate = new FunctionDelegate<string, string>(ReverseString);
+            IFunctionDelegate<int, int> squareDelegate = new FunctionDelegate<int, int>(Square);
 
             // Act
-            string reversedName = reverseStringDelegate.Execute("Developer");
+            int result = squareDelegate.Execute(5);
 
             // Assert
-            Assert.AreEqual("itrA", reversedName);
+            Assert.AreEqual(25, result);
         }
 
-        string ReverseString(string input)
+        // Define a Func delegate that represents a method with one parameter (int) and a return value (int)
+        static int Square(int a)
         {
-            char[] charArray = input.ToCharArray();
-            Array.Reverse(charArray);
-            return new string(charArray);
+            return a * a;
         }
     }
 }
